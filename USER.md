@@ -20,6 +20,11 @@
 - **Pet health analytics** — exploring as main side business
 - **Drop-shipping** — exploring as low-effort experiment
 
+## API / Billing
+
+- Currently on **Anthropic API** (direct keys)
+- Wants cost optimization review — Bobby to track usage week 1 and propose alternatives week 2
+
 ## Work
 
 - **Company:** ExxonMobil
@@ -52,6 +57,16 @@
 ### 2. Drop-shipping
 - Lower interest — only if easy to deploy and genuinely low effort
 - Treat as passive/experimental, not primary focus
+
+## Pets & Vet Relationships
+
+### Dogs
+- **Soju** — female mini Pomeranian, born January 2020
+- **Moutai** — female Chow Chow, born December 2021
+
+### Vet
+- Frequents **Mount Pleasant Vet (East Coast branch)** for routine visits
+- Relationship is transactional, not warm — no insider access, but existing customer
 
 ## Context
 
