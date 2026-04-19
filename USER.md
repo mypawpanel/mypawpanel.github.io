@@ -37,8 +37,30 @@
 
 - Travels ~1–2 weeks per month
 - Wants easier access to market updates (PE / polymers / regional)
-- Has ICIS access via ExxonMobil but underutilizing it
+- Has ICIS access via ExxonMobil but underutilizing it (login only — no automated access)
 - Commutes in the morning — good time for longer reads
+
+## PE Value Chain Intelligence (brief must cover)
+
+### End-use segments (SAP focus)
+- **Consumer packaging**: packed food, packed home care, personal care products
+- **Industrial packaging**: heavy duty sacks (for petrochem resins), collation shrink (beverages), stretch hood, stretch films (pallet stabilisation / transport)
+
+### Value chain layers to monitor
+1. **Feedstock / upstream** — crude, naphtha, ethylene, propane, LPG (incl. geopolitical supply shocks e.g. Iran, Russia)
+2. **PE resin pricing & supply** — HDPE/LDPE/LLDPE by grade, region, arbitrage flows
+3. **Competition** — major producers SABIC, Dow, LyondellBasell, Reliance, PTT, Formosa, Braskem, CNPC/Sinopec
+4. **Converters / processors** — blown film, cast film, FFS (form-fill-seal), stretch wrap machinery trends
+5. **Brand owners** — packaging format changes, sustainability mandates, lightweighting, material substitution (PE→paper, PE→bio)
+6. **Machinery producers** — blown/cast PE film lines, FFS machinery, shrink tunnels, stretch wrappers (e.g. Windmöller & Hölscher, Reifenhäuser, BOBST, Colines)
+7. **End consumer / macro** — cost of living shifts, consumption pattern changes, trade policy impacts
+8. **Geopolitical / macro signals** — war/conflict supply disruptions, sanctions, tariffs, currency moves affecting SAP import costs
+
+### Example signal types Weijian cares about
+- Iran conflict → LPG supply tightness → Indian consumer cooking fuel cost → PE demand substitution effect
+- Cost of living pressure → brand owner SKU downsizing → packaging format changes → PE grade demand shifts
+- New film extrusion line announcements in SEA → demand pull signal
+- Brand owner sustainability pledges → PE recyclability mandates → impact on LLDPE vs HDPE mix
 
 ## Side Income Constraints
 
